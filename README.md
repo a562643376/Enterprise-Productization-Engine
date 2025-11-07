@@ -598,10 +598,6 @@ AI 大模型平台与低代码、无代码、集成平台一起构成完整的�
 - 为什么选择数式 Oinone
   - [https://www.oinone.top/choose.html](https://www.oinone.top/choose.html)
 
-- github 组织与后端仓库  
-  - [https://github.com/oinone](https://github.com/oinone)  
-  - [https://github.com/oinone/oinone-pamirs](https://github.com/oinone/oinone-pamirs)
-
 - GitHub 后端仓库  
   - [https://github.com/oinone/oinone-pamirs](https://github.com/oinone/oinone-pamirs)
 
